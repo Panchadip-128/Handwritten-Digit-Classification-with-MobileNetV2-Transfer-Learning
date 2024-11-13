@@ -24,3 +24,10 @@ Requirements:
 TensorFlow
 NumPy
 Matplotlib
+
+
+Output Graphs:
+---------------
+![Screenshot 2024-11-13 151946](https://github.com/user-attachments/assets/547c57c5-8d10-43f0-8a41-44ca6eb081f9)
+![Screenshot 2024-11-13 152008](https://github.com/user-attachments/assets/a318979b-1753-4d5e-bac2-17f0c4ed42c8)
+![Screenshot 2024-11-13 152025](https://github.com/user-attachments/assets/80fe27c9-c049-4922-93ad-07cadd5280fd)
