@@ -24,6 +24,7 @@ Requirements:
 TensorFlow
 NumPy
 Matplotlib
+Sk-Learn
 
 
 Output Graphs:
