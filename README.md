@@ -12,7 +12,7 @@ Converting grayscale images to RGB and resizing them to match the input requirem
 
 Building a classification model:
 --------------------------------
-Using MobileNetV2 as a feature extractor and adding a custom classifier.
+Using MobileNetV2 as a feature extractor and adding a custom-defined classifier.
 
 Training and evaluating the model:
 -----------------------------------
